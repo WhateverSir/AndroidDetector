@@ -41,7 +41,7 @@ AndroidDetector提供了精度和速度测试功能，你可以按照以下步�
 1. 在设备上安装并运行AndroidDetector应用。
 2. 点击应用界面上的"进行测试"按钮。
 3. 系统会自动进行速度测试，并在日志信息处显示测试结果。
-4. 安装pycocotools,对生成的result.json文件进行精度测试。
+4. 安装pycocotools，对文件夹输入生成的result.json文件进行精度测试。
 
 ## Error & Solution
 | Error | Solution |
