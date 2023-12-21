@@ -1,5 +1,5 @@
 # AndroidDetector🚀
-AndroidDetector是一个在安卓系统上使用的目标检测器，它支持摄像头、图片和文件夹输入，并提供了精度和速度测试功能。
+AndroidDetector是一个在安卓系统上使用的基于yolov5s的目标检测器，它支持摄像头、图片和文件夹输入，并提供了精度和速度测试功能。
 
 ## 环境
 以下是AndroidDetector开发所需的环境信息：
