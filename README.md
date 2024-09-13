@@ -49,4 +49,4 @@ AndroidDetector提供了精度和速度测试功能，你可以按照以下步�
 | No variants found for ':app'| 更改tools版本:https://blog.csdn.net/chenhao0568/article/details/117754675 |
 | Unsupported Java| 修改JDK版本:https://blog.csdn.net/hehota/article/details/130514341 |
 ## 界面
-![zhujiemian](app/src/main/assets/mian.png)
+![zhujiemian](app/src/main/assets/main.png)
